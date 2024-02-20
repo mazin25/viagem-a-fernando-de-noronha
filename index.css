@@ -1,0 +1,17 @@
+h1{
+   border-radius: solid 7px rgb(7, 124, 7);
+   border-radius: 5px;
+   color: white;
+   background:   rgb(4, 172, 4);
+}
+img{
+   border-radius: 10px;
+}
+h2{
+   border-radius: solid 7px rgb(151, 101, 9);
+   border-radius: 5px;
+   color: black;
+   background: rgb(255, 174, 0);
+   border-radius: 10px;
+
+}
